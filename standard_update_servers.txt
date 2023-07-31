@@ -4,7 +4,7 @@
 # Installation
 # Just add the URL to the pi-hole adlist list (see http://your-pi-server/admin/groups-adlists.php)
 
-play.googleapis.com
+# Win-Telemetry Update-Server
 forefrontdl.microsoft.com
 ntservicepack.microsoft.com
 statsfe2.ws.microsoft.com
@@ -15,3 +15,16 @@ windowsupdate.com
 windowsupdate.microsoft.com
 windowsupdate.nsatc.net
 wustat.windows.com
+ads.microsoft.com
+clarity.azurefd.net
+clarity.ms
+
+
+# Android Update-Server
+play.googleapis.com
+android.apis.google.com
+android.clients.google.com
+android.com
+android-context-data.googleapis.com
+android.googleapis.com
+android.l.google.com

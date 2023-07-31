@@ -1,7 +1,33 @@
-# List of netflix, tiktok and other streaming services
+# List of netflix, tiktok and other streaming and social media services
 # https://github.com/RogerZueger
 
 # Installation
 # Just add the URL to the pi-hole adlist list (see http://your-pi-server/admin/groups-adlists.php)
 
+mqtt-mini.facebook.com
 www.netflix.com
+flxvpn.net
+netflix.ca
+netflix.com
+netflix.com.au
+netflixdnstest10.com
+netflixdnstest1.com
+netflixdnstest2.com
+netflixdnstest3.com
+netflixdnstest4.com
+netflixdnstest5.com
+netflixdnstest6.com
+netflixdnstest7.com
+netflixdnstest8.com
+netflixdnstest9.com
+netflixinvestor.com
+netflix.net
+netflixstudios.com
+netflixtechblog.com
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net
+h-netflix.online-metrix.net
+cdn.nflxvideo.net
