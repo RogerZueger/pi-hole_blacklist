@@ -1,0 +1,17 @@
+# List of update services
+# https://github.com/RogerZueger
+
+# Installation
+# Just add the URL to the pi-hole adlist list (see http://your-pi-server/admin/groups-adlists.php)
+
+play.googleapis.com
+forefrontdl.microsoft.com
+ntservicepack.microsoft.com
+statsfe2.ws.microsoft.com
+update.microsoft
+update.microsoft.com
+update.microsoft.com.nsatc.net
+windowsupdate.com
+windowsupdate.microsoft.com
+windowsupdate.nsatc.net
+wustat.windows.com

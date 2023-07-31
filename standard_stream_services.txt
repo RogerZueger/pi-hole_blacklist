@@ -1,0 +1,7 @@
+# List of netflix, tiktok and other streaming services
+# https://github.com/RogerZueger
+
+# Installation
+# Just add the URL to the pi-hole adlist list (see http://your-pi-server/admin/groups-adlists.php)
+
+www.netflix.com
